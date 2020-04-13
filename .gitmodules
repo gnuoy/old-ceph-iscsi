@@ -6,4 +6,4 @@
 	url = https://github.com/gnuoy/oper-interface-ceph-client.git
 [submodule "mod/ops-openstack"]
 	path = mod/ops-openstack
-	url = https://github.com/gnuoy/ops-openstack.git
+	url = https://github.com/gnuoy/ops-openstack
